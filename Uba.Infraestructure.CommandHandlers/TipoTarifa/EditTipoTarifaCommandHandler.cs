@@ -25,7 +25,7 @@ namespace Uba.Application.Infraestructure.CommandHandlers.TipoTarifa
             if (command is null) throw new ArgumentNullException(nameof(command));
             if (_repository is null) throw new InvalidOperationException("Repositorio no fue inicializado.");
             var aggregate = new TipoTarifaItem();
-            aggregate.Update(command.Id, command.TipoParametrica, command.Descripcion);
+            aggregate.Update(command.TipoTarifaId, command.Descripcion, command.AplicaGrupoBin, command.AplicaDifTxn, command.Esquema);
             _repository.Save(aggregate);
         }
     }

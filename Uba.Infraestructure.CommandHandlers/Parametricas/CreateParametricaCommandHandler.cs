@@ -1,6 +1,7 @@
 ﻿using System;
 using Uba.Application.Domain;
 using Uba.Infraestructure.Commands;
+using Uba.Infraestructure.Commands.Parametricas;
 using Uba.Storage.Core;
 
 namespace Uba.Application.Infraestructure.CommandHandlers.Parametricas

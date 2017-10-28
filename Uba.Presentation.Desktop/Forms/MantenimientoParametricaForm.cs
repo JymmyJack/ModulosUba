@@ -4,6 +4,7 @@ using System.Windows.Forms;
 using Uba.Application.Commands.Parametricas;
 using Uba.Application.Configuration;
 using Uba.Infraestructure.Commands;
+using Uba.Infraestructure.Commands.Parametricas;
 using Uba.Infraestructure.Dto;
 using Uba.Presentation.Desktop.Resources;
 

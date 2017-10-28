@@ -130,3 +130,4 @@ E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Presentation.Desktop\bin\Debug\
 E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Presentation.Desktop\obj\Debug\Uba.Presentation.Desktop.Forms.MantenimientoParametricaDetailForm.resources
 E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Presentation.Desktop\obj\Debug\Uba.Presentation.Desktop.Forms.MantenimientoParametricaForm.resources
 E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Presentation.Desktop\obj\Debug\Uba.Presentation.Desktop.Resources.AppResource.resources
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Presentation.Desktop\obj\Debug\Uba.Presentation.Desktop.Forms.MantenimientoTipoTarifaForm.resources

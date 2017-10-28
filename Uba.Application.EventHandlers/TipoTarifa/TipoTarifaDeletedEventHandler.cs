@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Uba.Application.Events.Parametricas;
-using Uba.Application.Events.TipoParametrica;
+using Uba.Application.Events.TipoTarifa;
 using Uba.Infraestructure.Dto;
 using Uba.Storage.Core;
 

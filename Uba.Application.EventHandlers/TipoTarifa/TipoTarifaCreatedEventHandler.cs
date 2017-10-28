@@ -1,5 +1,5 @@
 ﻿using Uba.Application.Events.Parametricas;
-using Uba.Application.Events.TipoParametrica;
+using Uba.Application.Events.TipoTarifa;
 using Uba.Infraestructure.Dto;
 using Uba.Storage.Core;
 

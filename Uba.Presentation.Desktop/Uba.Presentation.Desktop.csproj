@@ -77,6 +77,12 @@
     <Compile Include="Forms\MantenimientoParametricaForm.Designer.cs">
       <DependentUpon>MantenimientoParametricaForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\MantenimientoTipoTarifaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MantenimientoTipoTarifaForm.Designer.cs">
+      <DependentUpon>MantenimientoTipoTarifaForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -98,6 +104,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\MantenimientoParametricaForm.resx">
       <DependentUpon>MantenimientoParametricaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MantenimientoTipoTarifaForm.resx">
+      <DependentUpon>MantenimientoTipoTarifaForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
