@@ -1,0 +1,10 @@
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Storage.Core\bin\Debug\Uba.Storage.Core.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Storage.Core\bin\Debug\Uba.Storage.Core.pdb
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Storage.Core\obj\Debug\Uba.Storage.Core.csprojResolveAssemblyReference.cache
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Storage.Core\obj\Debug\Uba.Storage.Core.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Storage.Core\obj\Debug\Uba.Storage.Core.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Storage.Core\obj\Debug\Uba.Storage.Core.pdb
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Storage.Core\bin\Debug\Uba.Application.Domain.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Storage.Core\bin\Debug\Uba.Application.Events.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Storage.Core\bin\Debug\Uba.Application.Domain.pdb
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Storage.Core\bin\Debug\Uba.Application.Events.pdb

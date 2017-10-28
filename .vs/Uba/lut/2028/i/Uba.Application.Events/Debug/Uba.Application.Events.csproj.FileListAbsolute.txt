@@ -1,0 +1,6 @@
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\b\Uba.Application.Events\bin\Debug\Uba.Application.Events.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\b\Uba.Application.Events\bin\Debug\Uba.Application.Events.pdb
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\i\Uba.Application.Events\Debug\Uba.Application.Events.csprojResolveAssemblyReference.cache
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\i\Uba.Application.Events\Debug\Uba.Application.Events.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\i\Uba.Application.Events\Debug\Uba.Application.Events.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\i\Uba.Application.Events\Debug\Uba.Application.Events.pdb

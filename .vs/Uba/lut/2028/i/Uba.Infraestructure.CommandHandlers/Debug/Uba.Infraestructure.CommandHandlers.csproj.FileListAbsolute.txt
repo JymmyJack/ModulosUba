@@ -1,0 +1,2 @@
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\i\Uba.Infraestructure.CommandHandlers\Debug\Uba.Infraestructure.CommandHandlers.csprojResolveAssemblyReference.cache
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\i\Uba.Infraestructure.CommandHandlers\Debug\Uba.Infraestructure.CommandHandlers.csproj.CoreCompileInputs.cache

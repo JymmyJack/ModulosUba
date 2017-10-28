@@ -1,0 +1,14 @@
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.EventHandlers\bin\Debug\Uba.Application.EventHandlers.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.EventHandlers\bin\Debug\Uba.Application.EventHandlers.pdb
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.EventHandlers\bin\Debug\Uba.Application.Events.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.EventHandlers\bin\Debug\Uba.Application.Events.pdb
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.EventHandlers\obj\Debug\Uba.Application.EventHandlers.csprojResolveAssemblyReference.cache
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.EventHandlers\obj\Debug\Uba.Application.EventHandlers.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.EventHandlers\obj\Debug\Uba.Application.EventHandlers.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.EventHandlers\obj\Debug\Uba.Application.EventHandlers.pdb
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.EventHandlers\bin\Debug\Uba.Infraestructure.Dto.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.EventHandlers\bin\Debug\Uba.Storage.Core.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.EventHandlers\bin\Debug\Uba.Application.Domain.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.EventHandlers\bin\Debug\Uba.Infraestructure.Dto.pdb
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.EventHandlers\bin\Debug\Uba.Storage.Core.pdb
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.EventHandlers\bin\Debug\Uba.Application.Domain.pdb

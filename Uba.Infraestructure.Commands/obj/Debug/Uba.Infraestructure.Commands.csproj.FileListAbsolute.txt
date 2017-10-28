@@ -1,0 +1,12 @@
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.Commands\bin\Debug\Uba.Infraestructure.Commands.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.Commands\bin\Debug\Uba.Infraestructure.Commands.pdb
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.Commands\obj\Debug\Uba.Infraestructure.Commands.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.Commands\obj\Debug\Uba.Infraestructure.Commands.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.Commands\obj\Debug\Uba.Infraestructure.Commands.pdb
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.Commands\obj\Debug\Uba.Infraestructure.Commands.csprojResolveAssemblyReference.cache
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Infraestructure.Commands\bin\Debug\Uba.Infraestructure.Commands.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Infraestructure.Commands\bin\Debug\Uba.Infraestructure.Commands.pdb
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Infraestructure.Commands\obj\Debug\Uba.Infraestructure.Commands.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Infraestructure.Commands\obj\Debug\Uba.Infraestructure.Commands.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Infraestructure.Commands\obj\Debug\Uba.Infraestructure.Commands.pdb
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Infraestructure.Commands\obj\Debug\Uba.Infraestructure.Commands.csprojResolveAssemblyReference.cache

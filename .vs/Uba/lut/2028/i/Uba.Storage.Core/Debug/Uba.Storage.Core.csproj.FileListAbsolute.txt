@@ -1,0 +1,6 @@
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\b\Uba.Storage.Core\bin\Debug\Uba.Storage.Core.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\b\Uba.Storage.Core\bin\Debug\Uba.Storage.Core.pdb
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\i\Uba.Storage.Core\Debug\Uba.Storage.Core.csprojResolveAssemblyReference.cache
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\i\Uba.Storage.Core\Debug\Uba.Storage.Core.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\i\Uba.Storage.Core\Debug\Uba.Storage.Core.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\i\Uba.Storage.Core\Debug\Uba.Storage.Core.pdb

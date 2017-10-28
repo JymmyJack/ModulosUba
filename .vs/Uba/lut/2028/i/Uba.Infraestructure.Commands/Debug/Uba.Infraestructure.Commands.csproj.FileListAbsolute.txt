@@ -1,0 +1,5 @@
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\b\Uba.Infraestructure.Commands\bin\Debug\Uba.Infraestructure.Commands.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\b\Uba.Infraestructure.Commands\bin\Debug\Uba.Infraestructure.Commands.pdb
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\i\Uba.Infraestructure.Commands\Debug\Uba.Infraestructure.Commands.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\i\Uba.Infraestructure.Commands\Debug\Uba.Infraestructure.Commands.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\i\Uba.Infraestructure.Commands\Debug\Uba.Infraestructure.Commands.pdb

@@ -1,0 +1,5 @@
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Infraestructure.Exceptions\bin\Debug\Uba.Infraestructure.Exceptions.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Infraestructure.Exceptions\bin\Debug\Uba.Infraestructure.Exceptions.pdb
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Infraestructure.Exceptions\obj\Debug\Uba.Infraestructure.Exceptions.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Infraestructure.Exceptions\obj\Debug\Uba.Infraestructure.Exceptions.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Infraestructure.Exceptions\obj\Debug\Uba.Infraestructure.Exceptions.pdb

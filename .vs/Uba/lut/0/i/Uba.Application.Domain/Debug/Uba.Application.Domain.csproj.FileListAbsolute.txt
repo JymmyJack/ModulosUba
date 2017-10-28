@@ -1,0 +1,6 @@
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\b\Uba.Application.Domain\bin\Debug\Uba.Application.Domain.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\b\Uba.Application.Domain\bin\Debug\Uba.Application.Domain.pdb
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\i\Uba.Application.Domain\Debug\Uba.Application.Domain.csprojResolveAssemblyReference.cache
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\i\Uba.Application.Domain\Debug\Uba.Application.Domain.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\i\Uba.Application.Domain\Debug\Uba.Application.Domain.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\.vs\Uba\lut\0\i\Uba.Application.Domain\Debug\Uba.Application.Domain.pdb

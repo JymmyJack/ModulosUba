@@ -1,0 +1,6 @@
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.Commands\bin\Debug\Uba.Application.Commands.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.Commands\bin\Debug\Uba.Application.Commands.pdb
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.Commands\obj\Debug\Uba.Application.Commands.csprojResolveAssemblyReference.cache
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.Commands\obj\Debug\Uba.Application.Commands.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.Commands\obj\Debug\Uba.Application.Commands.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.Commands\obj\Debug\Uba.Application.Commands.pdb

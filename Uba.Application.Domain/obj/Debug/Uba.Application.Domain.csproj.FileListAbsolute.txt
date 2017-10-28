@@ -1,0 +1,8 @@
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.Domain\bin\Debug\Uba.Application.Domain.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.Domain\bin\Debug\Uba.Application.Domain.pdb
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.Domain\bin\Debug\Uba.Application.Events.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.Domain\bin\Debug\Uba.Application.Events.pdb
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.Domain\obj\Debug\Uba.Application.Domain.csprojResolveAssemblyReference.cache
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.Domain\obj\Debug\Uba.Application.Domain.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.Domain\obj\Debug\Uba.Application.Domain.dll
+E:\PROYECTOS\UNIBANCA\Fuentes\ModulosUba\Uba\Uba.Application.Domain\obj\Debug\Uba.Application.Domain.pdb
