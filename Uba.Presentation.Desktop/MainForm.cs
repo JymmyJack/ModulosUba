@@ -40,8 +40,7 @@ namespace Uba.Presentation.Desktop
 
         private void btnMenuClaseAgr_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            ShowChildForm(new Forms.MantenimientoParametricaForm(Forms.MantenimientoParametricaForm.Parametrica.ClaseAgrupacion));
-
+            ShowChildForm(new Forms.MantenimientoParametricaForm(Forms.MantenimientoParametricaForm.Parametrica.ClaseAgrupacion)); 
         }
     }
 }
