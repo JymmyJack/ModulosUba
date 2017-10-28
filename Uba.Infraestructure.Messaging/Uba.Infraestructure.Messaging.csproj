@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3C8756C4-F3F2-4EBA-B3EC-667B997AF1E3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Uba.Application.Messaging</RootNamespace>
+    <AssemblyName>Uba.Infraestructure.Messaging</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CommandBus.cs" />
+    <Compile Include="EventBus.cs" />
+    <Compile Include="ICommandBus.cs" />
+    <Compile Include="IEventBus.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Uba.Application.EventHandlers\Uba.Application.EventHandlers.csproj">
+      <Project>{879E97EB-D179-456B-A798-C4A73F2947A3}</Project>
+      <Name>Uba.Application.EventHandlers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Uba.Application.Events\Uba.Application.Events.csproj">
+      <Project>{8E6FA3C3-587E-45E8-9C78-89673AC9D72A}</Project>
+      <Name>Uba.Application.Events</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Uba.Infraestructure.CommandHandlers\Uba.Infraestructure.CommandHandlers.csproj">
+      <Project>{8fe22300-bbff-4aae-82ba-6591a06aaa44}</Project>
+      <Name>Uba.Infraestructure.CommandHandlers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Uba.Infraestructure.Commands\Uba.Infraestructure.Commands.csproj">
+      <Project>{2A08A883-D5A8-4710-A6CF-2D28106E6DBA}</Project>
+      <Name>Uba.Infraestructure.Commands</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Uba.Infraestructure.Exceptions\Uba.Infraestructure.Exceptions.csproj">
+      <Project>{6CD2DEF6-8FA8-4E8F-AB33-87EC0C4DE236}</Project>
+      <Name>Uba.Infraestructure.Exceptions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Uba.Infraestructure.Utils\Uba.Infraestructure.Utils.csproj">
+      <Project>{9DCD6CA7-4A4A-4828-81DC-294BA5029D26}</Project>
+      <Name>Uba.Infraestructure.Utils</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

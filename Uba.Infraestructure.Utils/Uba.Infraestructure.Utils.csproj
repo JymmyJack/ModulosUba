@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9DCD6CA7-4A4A-4828-81DC-294BA5029D26}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Uba.Application.Infraestructure.Utils</RootNamespace>
+    <AssemblyName>Uba.Infraestructure.Utils</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="StructureMap, Version=2.6.4.0, Culture=neutral, PublicKeyToken=e60ad81abae3c223, processorArchitecture=MSIL">
+      <HintPath>..\packages\structuremap.2.6.4.1\lib\net40\StructureMap.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Converter.cs" />
+    <Compile Include="ICommandHandlerFactory.cs" />
+    <Compile Include="IEventHandlerFactory.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StructureMapCommandHandlerFactory.cs" />
+    <Compile Include="StructureMapEventHandlerFactory.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Uba.Application.EventHandlers\Uba.Application.EventHandlers.csproj">
+      <Project>{879E97EB-D179-456B-A798-C4A73F2947A3}</Project>
+      <Name>Uba.Application.EventHandlers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Uba.Application.Events\Uba.Application.Events.csproj">
+      <Project>{8E6FA3C3-587E-45E8-9C78-89673AC9D72A}</Project>
+      <Name>Uba.Application.Events</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Uba.Infraestructure.CommandHandlers\Uba.Infraestructure.CommandHandlers.csproj">
+      <Project>{8FE22300-BBFF-4AAE-82BA-6591A06AAA44}</Project>
+      <Name>Uba.Infraestructure.CommandHandlers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Uba.Infraestructure.Commands\Uba.Infraestructure.Commands.csproj">
+      <Project>{2A08A883-D5A8-4710-A6CF-2D28106E6DBA}</Project>
+      <Name>Uba.Infraestructure.Commands</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
